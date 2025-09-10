@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>Team1CucumberProject</artifactId>
+    <artifactId>Live_Betting_Page_Automation_Test_Project</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -60,8 +60,6 @@
             <version>1.18.30</version>
             <scope>provided</scope>
         </dependency>
-
-
     </dependencies>
 </project>
 
